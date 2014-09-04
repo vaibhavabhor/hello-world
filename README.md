@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-This is the test repository on GitHub
+This is the test repository on GitHub.
+Commiting the change!
